@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**humbletrader/humbletrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My main areas of interest are: 
+ * scala
+ * java
+ * bigdata
 
-Here are some ideas to get you started:
+# My most important projects are 
+  * [troubleshooting spark issues](https://humbletrader.github.io/spark-best-practices/) 
+  * scala tutorial - link here
+  * webcv - keep your cvs online and apply different templates 
+  * report engine - open source java reports 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My CV is 
+[here](http://humbletrader.github.io)
+
+
+
+
